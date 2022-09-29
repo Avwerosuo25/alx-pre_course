@@ -1,3 +1,1 @@
-my second commit
-
-making a change
+Welcome to the page. ALX SE!
